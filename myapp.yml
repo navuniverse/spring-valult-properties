@@ -1,0 +1,3 @@
+myapp:
+  git:
+    property: Application Property from git
